@@ -17,15 +17,6 @@
 
 ---
 
-### 🚀 My Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [`Robot Shop DevOps`](https://gravix.hashnode.dev/robot-shop) | Deployed multi-service e-commerce app on AWS with full CI/CD pipeline, monitoring, and scaling | Docker, EKS, Prometheus, Grafana, Jenkins |
-| `CI/CD Pipeline for FastAPI App` *(Coming Soon)* | Full-stack app deployed to EC2 using GitHub Actions & Nginx | Docker, EC2, GitHub Actions |
-| `Kubernetes Observability Stack` *(Coming Soon)* | Logging + Monitoring stack using Loki, Prometheus, Alertmanager | K8s, Helm, Loki, Prometheus |
-
----
 
 ### 🛠️ Tools & Technologies
 
@@ -39,16 +30,7 @@
   <img src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurjar-vishal&show_icons=true&theme=tokyonight" alt="Vishal's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjar-vishal&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/vg-ahir-444-devops)
