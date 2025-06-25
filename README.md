@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=500&height=70&lines=Code...Build...Ship...Scale...Repeat.;Cloud+Automation+is+an+Art+🎯;We+Don't+Click+Deploy...We+Automate+it+🚀" alt="typing animation">
 </p>
 
-
-
 <p align="center">
   <img src="https://assets-global.website-files.com/63209db5d3d7166c3779bece/63f8f4789bb2082c0a79f20c_build%20ship%20scale.gif" width="700"/>
 </p>
@@ -15,8 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=🔥+Break+Things+Locally%2C+Scale+Globally;⚙️+Scripted+Solutions+%3E+Manual+Chaos;☸️+DevOps+%7C+Kubernetes+%7C+Cloud+Warrior" alt="quote" />
 </p>
 
-
-
+---
 
 ### 💻 About Me
 
@@ -25,30 +22,39 @@
 - 🔍 Focused on mastering **CI/CD pipelines, K8s deployments, and monitoring stacks**  
 - ✍️ Blogging at: [gravix.hashnode.dev](https://gravix.hashnode.dev)  
 - 💼 Looking for **DevOps internship/full-time opportunities** in product-based or cloud-native companies  
+- 📧 Email: [vgahir099@gmail.com](mailto:vgahir099@gmail.com)  
 - 🌐 Let’s connect on [LinkedIn](http://www.linkedin.com/in/vg-ahir-444-devops)
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/shell%20script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+#### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://img.icons8.com/ios-filled/40/000000/gnu-bash.png" title="Shell Script"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" title="Jenkins"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/fluency/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/gitlab.png" title="GitLab CI"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub Actions"/>
+</p>
+
+#### 📊 Monitoring & Observability
+<p>
+  <img src="https://img.icons8.com/fluency/48/grafana.png" title="Grafana"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-prometheus-a-monitoring-system-and-time-series-database-logo-color-tal-revivo.png" title="Prometheus"/>
+</p>
+
+#### 🧠 Productivity & Others
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/notion.png" title="Notion"/>
+  <img src="https://img.icons8.com/fluency/48/gradle.png" title="Gradle"/>
 </p>
 
 
----
 
 ### 📊 GitHub Stats
 
@@ -60,5 +66,7 @@
 ---
 
 ### 📬 Contact Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/vg-ahir-444-devops)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-blue?style=for-the-badge&logo=hashnode)](https://gravix.hashnode.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgahir099@gmail.com)
