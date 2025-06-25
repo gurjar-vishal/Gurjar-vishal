@@ -2,10 +2,19 @@
 <h3 align="center">🔧 DevOps Engineer | Cloud Enthusiast | AWS | Kubernetes | CI/CD</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=🚀+Building+Cloud-Native+Infrastructure;🛠️+Automating+Everything+with+DevOps;☸️+Scaling+Apps+with+Kubernetes;📊+Monitoring+Like+a+Pro+with+Grafana" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=500&height=70&lines=Code...Build...Ship...Scale...Repeat.;Cloud+Automation+is+an+Art+🎯;We+Don't+Click+Deploy...We+Automate+it+🚀" alt="typing animation">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://assets-global.website-files.com/63209db5d3d7166c3779bece/63f8f4789bb2082c0a79f20c_build%20ship%20scale.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=🔥+Break+Things+Locally%2C+Scale+Globally;⚙️+Scripted+Solutions+%3E+Manual+Chaos;☸️+DevOps+%7C+Kubernetes+%7C+Cloud+Warrior" alt="quote" />
+</p>
+
 
 ### 🧠 *“DevOps isn’t just about tools — it’s about culture, automation, and making things scale beautifully.”*
 
@@ -39,6 +48,7 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
+
 
 ---
 
