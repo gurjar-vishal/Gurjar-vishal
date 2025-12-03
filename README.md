@@ -25,9 +25,9 @@
 - 🎓 Final Year Computer Engineering Student  
 - ☁️ Currently working on **real-world DevOps projects** using AWS, Docker, Jenkins & Kubernetes  
 - 🔍 Focused on mastering **CI/CD pipelines, K8s deployments, and monitoring stacks**  
-- ✍️ Blogging at: [gravix.hashnode.dev](https://gravix.hashnode.dev)  
+- ✍️ Blogging at: [gurjar-vishal.me](https://gurjar-vishal.me/)  
 - 💼 Looking for **DevOps internship/full-time opportunities** in product-based or cloud-native companies  
-- 📧 Email: [vgahir099@gmail.com](mailto:vgahir099@gmail.com)  
+- 📧 Email: [vgahir6353@gmail.com](mailto:vgahir6353@gmail.com)  
 - 🌐 Let’s connect on [LinkedIn](http://www.linkedin.com/in/vg-ahir-444-devops)
 
 ---
