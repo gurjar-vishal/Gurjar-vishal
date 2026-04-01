@@ -27,7 +27,7 @@
 - 🔍 Focused on mastering **CI/CD pipelines, K8s deployments, and monitoring stacks**  
 - ✍️ Blogging at: [gurjar-vishal.me](https://gurjar-vishal.me/)  
 - 💼 Looking for **DevOps internship/full-time opportunities** in product-based or cloud-native companies  
-- 📧 Email: [vgahir6353@gmail.com](mailto:vishalgurjar0444@gmail.com)  
+- 📧 Email: [vishalgurjar0444@gmail.com](mailto:vishalgurjar0444@gmail.com)  
 - 🌐 Let’s connect on [LinkedIn](http://www.linkedin.com/in/vg-ahir-444-devops)
 
 ---
