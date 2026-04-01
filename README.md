@@ -17,7 +17,7 @@
 
 ✍️ Project blog: [gurjar-vishal.me](https://gurjar-vishal.me)
 
-📧 Email: [gurjarvishal0444@gmail.com](mailto:gurjarvishal0444@gmail.com)
+📧 Email: [vishalgurjar0444@gmail.com](mailto:vishalgurjar0444@gmail.com)
 
 🌐 LinkedIn: [linkedin.com/in/vg-ahir-444-devops](https://linkedin.com/in/vg-ahir-444-devops)
 
@@ -117,7 +117,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/vg-ahir-444-devops"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://gurjar-vishal.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:gurjarvishal0444@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vishalgurjar0444@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/gurjar-vishal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
